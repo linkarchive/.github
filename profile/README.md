@@ -26,6 +26,18 @@
     <img src="https://img.shields.io/badge/ESLint-8.14.0-%234B32C3?logo=eslint">
     <img src="https://img.shields.io/badge/Prettier-2.6.2-%23F7B93E?logo=prettier">
     <img src="https://img.shields.io/badge/Vercel-%23000000?logo=vercel">
+    <img src="https://img.shields.io/badge/Java-17-ED8B00?logo=java&logoColor=white">
+    <img src="https://img.shields.io/badge/Gradle-7.6.1-02303A?logo=gradle&logoColor=white">
+    <img src="https://img.shields.io/badge/Spring%20Boot-2.7.11-6DB33F?logo=spring-boot&logoColor=white">
+    <img src="https://img.shields.io/badge/Spring%20Data%20JPA-%236DB33F?logo=spring&logoColor=white">
+    <img src="https://img.shields.io/badge/Spring%20Security-%236DB33F?logo=spring&logoColor=white">
+    <img src="https://img.shields.io/badge/H2-Database-%23A4A4A4?logo=h2&logoColor=white">
+    <img src="https://img.shields.io/badge/MySQL-%234479A1?logo=mysql&logoColor=white">
+    <img src="https://img.shields.io/badge/QueryDSL-5.0.0-%23B7B8C2">
+    <img src="https://img.shields.io/badge/Junit5-%2325A162?logo=junit5&logoColor=white">
+    <img src="https://img.shields.io/badge/AWS%20EC2-%23232F3E?logo=amazon-aws&logoColor=white">
+    <img src="https://img.shields.io/badge/AWS%20S3-%2356B4E9?logo=amazon-aws&logoColor=white">
+    <img src="https://img.shields.io/badge/AWS%20RDS-%230D6333?logo=amazon-aws&logoColor=white">
 
 </div>
 <br /><br />
